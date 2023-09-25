@@ -1,6 +1,6 @@
-# <h1 align="center"> Hi 👋, I'm Divyesh Chinni!</h1>
+<a href="https://divyeshchinni.netlify.app/">![logo](https://github.com/Divyesh2802/Divyesh2802/blob/main/Portfolio.png)></a>
 
-[![Portfolio Preview](https://raw.githubusercontent.com/Divyesh2802/Divyesh2802/blob/main/Portfolio.PNG)](https://divyeshchinni.netlify.app/)
+# <h1 align="center"> Hi 👋, I'm Divyesh Chinni!</h1>
 
 ## <h2 align="center">A computer science enthusiast with a passion for coding and technology from India</h2>
 
@@ -39,10 +39,10 @@
 
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyesh2802&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyesh2802&show_icons=true&locale=en&layout=compact" alt="Divyesh2802" /></p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Divyesh2802&label=Profile%20views&color=0eb413&style=flat" alt="Divyesh2802" /> </p>
 
 <!-- ![Profile Views](https://profile-counter.glitch.me/Divyesh2802/count.svg) -->
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyesh2802&show_icons=true&locale=en&layout=compact" alt="Divyesh2802" /></p>
 
 Let's connect and explore the world of technology together!
