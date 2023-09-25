@@ -1,4 +1,4 @@
-### Hi 👋, I'm Divyesh Chinni!
+# Hi 👋, I'm Divyesh Chinni!
 
 [![Portfolio Preview](https://raw.githubusercontent.com/Divyesh2802/Photos/main/Portfolio.png)](https://divyeshchinni.netlify.app/)
 
