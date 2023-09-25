@@ -1,4 +1,4 @@
-<a href="https://divyeshchinni.netlify.app/">![logo](https://github.com/Divyesh2802/Divyesh2802/blob/main/Portfolio.png)></a>
+<a href="https://divyeshchinni.netlify.app/">![logo](https://github.com/Divyesh2802/Divyesh2802/blob/main/Portfolio.PNG)</a>
 
 # <h1 align="center"> Hi 👋, I'm Divyesh Chinni!</h1>
 
