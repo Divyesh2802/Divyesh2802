@@ -1,8 +1,8 @@
-# Hi 👋, I'm Divyesh Chinni!
+### <p align="center" style="font-size:30px"> Hi 👋, I'm Divyesh Chinni!</p>
 
-[![Portfolio Preview](https://raw.githubusercontent.com/Divyesh2802/Photos/main/Portfolio.png)](https://divyeshchinni.netlify.app/)
+[![Portfolio Preview](https://raw.githubusercontent.com/Divyesh2802/Photos/blob/main/Portfolio.PNG)](https://divyeshchinni.netlify.app/)
 
-### A computer science enthusiast with a passion for coding and technology from India
+### <p align="center" style="font-size:30px">A computer science enthusiast with a passion for coding and technology from India</p>
 
 📚 I completed my Bachelor of Technology in Computer Science and Engineering.
 
