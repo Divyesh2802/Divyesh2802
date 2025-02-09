@@ -1,6 +1,6 @@
 <a href="https://divyeshchinni.netlify.app/">![logo](https://github.com/Divyesh2802/Divyesh2802/blob/main/Portfolio.PNG)</a>
 
-<h1 align="center"> Hi 👋, I'm Divyesh Chinni!</h1>
+<h1 align="center"> Hi 👋, I'm Sai Divyesh Chinni!</h1>
 
 <h2 align="center">A computer science enthusiast with a passion for coding and technology from India</h2>
 
